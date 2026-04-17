@@ -1,0 +1,6 @@
+{
+  "name": "Conciliador de Comprobantes",
+  "description": "App para comparar facturas entre archivos de Holystor y Mis Comprobantes de AFIP",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["PDF Parsing", "Data Comparison"]
+}
